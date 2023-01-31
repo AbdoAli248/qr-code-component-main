@@ -23,7 +23,7 @@
   top: 50%;
   transform: translate(-50%, -50%);
   width: 350px;
-  height: 550px;
+  height: 500px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -42,7 +42,7 @@ img {
 .cart h1 {
   color: var(--Dark_blue-color);
   font-weight: 700;
-  font-size: 25px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
