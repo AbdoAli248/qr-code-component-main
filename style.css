@@ -42,12 +42,12 @@ img {
 .cart h1 {
   color: var(--Dark_blue-color);
   font-weight: 700;
-  font-size: 20px;
+  font-size: 22px;
   margin-bottom: 20px;
 }
 
 .cart p {
   color: var(--Grayish_blue-color);
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 400;
 }
